@@ -1,0 +1,10 @@
+[
+	// { "keys": ["ctrl+v"], "command": "paste_and_indent" },
+	
+	{
+    	"keys": ["ctrl+alt+p"],
+    	"command": "prompt_select_workspace"
+    }
+
+
+]

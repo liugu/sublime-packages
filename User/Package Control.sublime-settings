@@ -1,0 +1,43 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"A File Icon",
+		"ApplySyntax",
+		"AutoHotkey",
+		"Blade Snippets",
+		"Boxy Theme",
+		"ChineseLocalizations",
+		"ColorPick",
+		"ColorPicker",
+		"ConvertToUTF8",
+		"DocBlockr",
+		"EditorConfig",
+		"Emmet",
+		"Emmet Css Snippets",
+		"Git",
+		"Jimbly's Clipboard History",
+		"Laravel Blade Highlighter",
+		"MarkdownEditing",
+		"Package Control",
+		"PHP Companion",
+		"Predawn",
+		"Pretty JSON",
+		"SFTP",
+		"SideBarEnhancements",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"SublimeLinter-php",
+		"SublimeLinter-phpcs",
+		"SublimeLinter-phplint",
+		"SublimeLinter-phpmd",
+		"Terminal",
+		"TortoiseSVN",
+		"Vue Syntax Highlight",
+		"Vuejs Complete Package",
+		"Vuejs Snippets"
+	]
+}

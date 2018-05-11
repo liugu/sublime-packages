@@ -1,0 +1,11 @@
+{
+   "jsdocs_extra_tags":[
+       "@name ",
+       "@Author liugu",
+       "@DateTime {{date}}",
+       // "@copyright ${1:[copyright]}",
+       //"@license ${1:[license]}",
+       // "@version ${1:[version]}"
+   ],
+   "jsdocs_function_description": false
+ }

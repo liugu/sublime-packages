@@ -1,0 +1,78 @@
+2017-05-31 10:56:33
+Traceback (most recent call last):
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/threads.py", line 16, in run_with_except_hook
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/threads.py", line 119, in handler
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 355, in run
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 510, in do_operation
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/file_transfer.py", line 47, in handler
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/ftp_transport.py", line 866, in put
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/ftp_transport.py", line 208, in handle_ftp_error
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/ftp_transport.py", line 830, in do_put
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/file_transfer.py", line 270, in encode
+  File "./python3.3/encodings/cp1252.py", line 12, in encode
+UnicodeEncodeError: 'charmap' codec can't encode characters in position 14-15: character maps to <undefined>
+2017-05-31 10:56:43
+Traceback (most recent call last):
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/threads.py", line 16, in run_with_except_hook
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/threads.py", line 119, in handler
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 355, in run
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 510, in do_operation
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/file_transfer.py", line 47, in handler
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/ftp_transport.py", line 866, in put
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/ftp_transport.py", line 208, in handle_ftp_error
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/ftp_transport.py", line 830, in do_put
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/file_transfer.py", line 270, in encode
+  File "./python3.3/encodings/cp1252.py", line 12, in encode
+UnicodeEncodeError: 'charmap' codec can't encode characters in position 14-15: character maps to <undefined>
+2017-06-02 15:41:02
+Traceback (most recent call last):
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/threads.py", line 16, in run_with_except_hook
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/threads.py", line 119, in handler
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 355, in run
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 510, in do_operation
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/file_transfer.py", line 47, in handler
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/ftp_transport.py", line 866, in put
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/ftp_transport.py", line 208, in handle_ftp_error
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/ftp_transport.py", line 830, in do_put
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/file_transfer.py", line 270, in encode
+  File "./python3.3/encodings/cp1252.py", line 12, in encode
+UnicodeEncodeError: 'charmap' codec can't encode characters in position 7-8: character maps to <undefined>
+2017-06-02 15:41:24
+Traceback (most recent call last):
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/threads.py", line 16, in run_with_except_hook
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/threads.py", line 119, in handler
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 355, in run
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 510, in do_operation
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/file_transfer.py", line 47, in handler
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/ftp_transport.py", line 866, in put
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/ftp_transport.py", line 208, in handle_ftp_error
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/ftp_transport.py", line 830, in do_put
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/file_transfer.py", line 270, in encode
+  File "./python3.3/encodings/cp1252.py", line 12, in encode
+UnicodeEncodeError: 'charmap' codec can't encode characters in position 7-8: character maps to <undefined>
+2017-07-05 16:11:36
+Traceback (most recent call last):
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/threads.py", line 16, in run_with_except_hook
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/threads.py", line 119, in handler
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 355, in run
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 510, in do_operation
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/file_transfer.py", line 47, in handler
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/ftp_transport.py", line 866, in put
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/ftp_transport.py", line 208, in handle_ftp_error
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/ftp_transport.py", line 830, in do_put
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/file_transfer.py", line 270, in encode
+  File "./python3.3/encodings/cp1252.py", line 12, in encode
+UnicodeEncodeError: 'charmap' codec can't encode characters in position 16-17: character maps to <undefined>
+2017-07-05 16:11:50
+Traceback (most recent call last):
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/threads.py", line 16, in run_with_except_hook
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/threads.py", line 119, in handler
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 355, in run
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 510, in do_operation
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/file_transfer.py", line 47, in handler
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/ftp_transport.py", line 866, in put
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/ftp_transport.py", line 208, in handle_ftp_error
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/ftp_transport.py", line 830, in do_put
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/file_transfer.py", line 270, in encode
+  File "./python3.3/encodings/cp1252.py", line 12, in encode
+UnicodeEncodeError: 'charmap' codec can't encode characters in position 16-17: character maps to <undefined>

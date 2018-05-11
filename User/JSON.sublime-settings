@@ -1,0 +1,11 @@
+{
+	"extensions":
+	[
+		".jshintrc",
+		".jscsrc",
+		".eslintrc",
+		".bowerrc",
+		".csslintrc",
+		"geojson"
+	]
+}

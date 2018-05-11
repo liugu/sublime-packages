@@ -1,0 +1,7 @@
+"phpcompanion": {
+    "namespace_prefix": "App",
+    "exclude_dir": [
+        "vendor",
+        "build"
+    ]
+}
