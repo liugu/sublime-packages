@@ -34,6 +34,7 @@
 		"SublimeLinter-phpcs",
 		"SublimeLinter-phplint",
 		"SublimeLinter-phpmd",
+		"SublimeTmpl",
 		"Terminal",
 		"TortoiseSVN",
 		"Vue Syntax Highlight",
